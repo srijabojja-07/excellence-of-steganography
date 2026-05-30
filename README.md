@@ -48,7 +48,7 @@ Use PNG for the stego image. JPG compression can destroy hidden data.
 ## Author
 
 Srija Bojja
-B.Tech Information Technology
+(B.Tech Information Technology), 
 Cybersecurity & Data Analytics Enthusiast
 
 GitHub: github.com/srijabojja-07
